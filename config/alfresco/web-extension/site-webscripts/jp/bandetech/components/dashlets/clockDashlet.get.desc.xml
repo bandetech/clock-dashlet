@@ -1,0 +1,6 @@
+<webscript>
+	<shortname>clockDashlet</shortname>
+	<description>Clock Dashlet</description>
+	<family>dashlet</family>
+	<url>/demo/clockDashlet</url>
+</webscript>

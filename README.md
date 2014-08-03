@@ -3,7 +3,7 @@
 Clock Dashlet is a tiny dashlet to display clock as a dashlet in Alfresco Share.
 
 
-![alt clock-dashlet-image](https://github.com/bandetech/clock-dashlet/screenshot/clock-dashlet.png")
+![alt clock-dashlet-image](https://github.com/bandetech/clock-dashlet/blob/master/screenshot/clock-dashlet.png)
 
 
 ##INSTALL
